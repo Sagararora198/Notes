@@ -130,3 +130,10 @@ Angular Project
 - **App Component**: If a service is provided here, the same instance will be available in all child components but not in other services.
 - **Child Component**: Each child component will have different instances of the service.
 
+## Destroy Ref
+-Alternate of ngOnDestroy you can inject instance of destroyRef in constructor and register callback 
+
+## AfterRender and AfterNextRender
+
+## @Viewchild
+
